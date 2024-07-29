@@ -1,5 +1,5 @@
 # Exercice Promo 10000codeurs 2024
-
+[victor BANNAME](https://github.com/Victor2049)
 [Fall Omar](https://github.com/omar218)
 [Jovy Nedved Monka - Kanda](https://github.com/jovyzabel)
 [Warda Boubaker](https://github.com/wardabk)
@@ -23,6 +23,8 @@
 [Quirin DOSSOU](https://github.com/QuirinD1)
 [Carles De Souza](https://github.com/carlesdesouza)
 [Djimo Gassama](https://github.com/Gastech99)
+[victor BANNAME](https://github.com/Victor2049)
+
 
 # Exercice Promo 10000codeurs 2023
 
